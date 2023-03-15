@@ -1,4 +1,4 @@
-module github.com/ArkeoNetwork/common
+module github.com/arkeonetwork/common
 
 go 1.19
 
